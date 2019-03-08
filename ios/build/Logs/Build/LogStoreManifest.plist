@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>9B4A627D-6059-422B-9357-2B00D7D27AB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B4A627D-6059-422B-9357-2B00D7D27AB1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoAppNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoAppNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573740208.71217799</real>
+			<key>timeStoppedRecording</key>
+			<real>573740218.72444499</real>
+			<key>title</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9B4A627D-6059-422B-9357-2B00D7D27AB1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

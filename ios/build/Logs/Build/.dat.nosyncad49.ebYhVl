@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>ABD5EEEA-023C-44ED-AC16-1BBAA7DA1357</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABD5EEEA-023C-44ED-AC16-1BBAA7DA1357.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoAppNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoAppNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573675248.43095005</real>
+			<key>timeStoppedRecording</key>
+			<real>573675266.49286997</real>
+			<key>title</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ABD5EEEA-023C-44ED-AC16-1BBAA7DA1357</string>
+		</dict>
+		<key>C63FE286-81F2-4EB2-890F-557CF97BF231</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C63FE286-81F2-4EB2-890F-557CF97BF231.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoAppNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoAppNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573675338.31344604</real>
+			<key>timeStoppedRecording</key>
+			<real>573675340.57490695</real>
+			<key>title</key>
+			<string>Building project TodoAppNative with scheme TodoAppNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C63FE286-81F2-4EB2-890F-557CF97BF231</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

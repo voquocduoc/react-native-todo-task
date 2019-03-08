@@ -1,1 +1,1 @@
-# react-native-todo-task
+TODO list created with react-native and firebase
